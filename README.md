@@ -17,10 +17,10 @@ Artist working across art, culture, and technology.
 
 ## Key Featured Work
 
-- [소변은 노랗다, 2019] * 순수회화
-- [고동마을, 2025] * 순수회화
-- [여름과 메아리, 2026] * 도서
-- [RORORO, 2026] * 미디어아트
+- [소변은 노랗다, 2019] * Fine Art
+- [고동마을, 2025] * Fine Art
+- [여름과 메아리, 2026] * Book
+- [RORORO, 2026] * Media Art
 
 ## Key Experience
 
