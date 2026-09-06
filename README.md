@@ -24,10 +24,10 @@ Artist working across art, culture, and technology.
 
 ## Contact
 
-- [Website 01](https://www.hwagodong.com)
-- [Website 02](https://www.rhgda.com)
-- [Instagram](https://www.instagram.com/ryuhwagodong/)
-- [YouTube](https://www.youtube.com/@hwagodong)
-- [LinkedIn](https://www.linkedin.com/in/sungryong-r-981183402/)
+- [Official | Artist Website](https://www.hwagodong.com)
+- [Official | Brand Website](https://www.rhgda.com)
+- [Official | Instagram](https://www.instagram.com/ryuhwagodong/)
+- [Official | YouTube](https://www.youtube.com/@hwagodong)
+- [Official | LinkedIn](https://www.linkedin.com/in/sungryong-r-981183402/)
 
 © 2026 RHGDA. All Rights Reserved.
