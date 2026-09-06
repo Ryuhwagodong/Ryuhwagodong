@@ -13,7 +13,7 @@ Artist working across art, culture, and technology.
 ## Key Awards
 
 - 2022 | Sejong University UI Meta Life Style IDEA Design Contest (우수상)
-- 2026 | 교보문고 온라인 시/에세이 전체 5위
+- 2026 | 교보문고 시/에세이 온라인 전체 5위
 
 ## Key Featured Work
 
