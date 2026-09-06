@@ -25,7 +25,7 @@ Artist working across art, culture, and technology.
 ## Key Experience
 
 - [Art Exhibition] 2024, Seoul Daon.
-- [Logo Design | ㅎㄱㄷ] 2025 Registered trademark.
+- [Logo Design | Cotanus] 2025 Registered trademark.
 
 ## Contact
 
