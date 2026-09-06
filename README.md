@@ -1,4 +1,4 @@
-# 🫪 Hello. New. | The Power of Creativity.
+# 💫 Hello. New. | The Power of Creativity.
 
 Artist working across art, culture, and technology.
 
