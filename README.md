@@ -10,18 +10,22 @@ Artist working across art, culture, and technology.
 - 2026 | 여름과 메아리 저자 (National Library of Korea.)
 - Apple Developer Academy @ POSTECH 2026.
 
-## Awards
+## Key Awards
 
-- Sejong University UI Meta Life Style IDEA Design Contest 우수상
-  - 2022.11.11
+- Sejong University UI Meta Life Style IDEA Design Contest
+  - 2022.11.11 (우수상)
 
 ## Featured Work
 
-- [RORORO](https://github.com/Ryuhwagodong/RORORO)
+- [소변은 노랗다, 2019] * 순수회화
+- [고동마을, 2025] * 순수회화
+- [여름과 메아리, 2026] * 도서
+- [RORORO Digital Art Project.] * 미디어아트
 
-## Connect
+## Contact
 
-- [Website](https://www.hwagodong.com)
+- [Website 01](https://www.hwagodong.com)
+- [Website 02](https://www.rhgda.com)
 - [Instagram](https://www.instagram.com/ryuhwagodong/)
 - [YouTube](https://www.youtube.com/@hwagodong)
 - [LinkedIn](https://www.linkedin.com/in/sungryong-r-981183402/)
