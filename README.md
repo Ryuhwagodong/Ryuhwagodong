@@ -20,7 +20,7 @@ Artist working across art, culture, and technology.
 - [소변은 노랗다, 2019] * 순수회화
 - [고동마을, 2025] * 순수회화
 - [여름과 메아리, 2026] * 도서
-- [RORORO Digital Art Project.] * 미디어아트
+- [RORORO, 2026] * 미디어아트
 
 ## Key Experience
 
