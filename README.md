@@ -1,16 +1,22 @@
-## Hi there 👋
+# RyuHwagodong
 
-<!--
-**Ryuhwagodong/Ryuhwagodong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artist working across art, culture, and technology.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artist at [@RHGDA](https://github.com/RHGDA)
+- 2026 National Library of Korea
+- Apple Developer Academy @ POSTECH
+
+## Featured Work
+
+- [RORORO](https://github.com/Ryuhwagodong/RORORO)
+
+## Connect
+
+- [Website](https://www.hwagodong.com)
+- [Instagram](https://www.instagram.com/ryuhwagodong/)
+- [YouTube](https://www.youtube.com/@hwagodong)
+- [LinkedIn](https://www.linkedin.com/in/sungryong-r-981183402/)
+
+© 2026 RHGDA. All Rights Reserved.
