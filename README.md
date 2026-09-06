@@ -1,9 +1,10 @@
-# Hello. New
+# Hello. New. The Power of Creativity.
 
 Artist working across art, culture, and technology.
 
 ## About
 
+* Real Name : 유성룡
 - Artist at RHGDA. (Active Since 2018, in South Korea.)
 - 2024 | Pro Debut. (Debut Work : 고동마을)
 - 2026 | 여름과 메아리 저자 (National Library of Korea.)
