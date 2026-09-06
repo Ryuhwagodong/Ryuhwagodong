@@ -4,16 +4,15 @@ Artist working across art, culture, and technology.
 
 ## About
 
-- Artist at [@RHGDA].
-- Active Since 2018, in South Korea.
+- Artist at RHGDA. (Active Since 2018, in South Korea.)
 - 2024 | Pro Debut. (Debut Work : 고동마을)
 - 2026 | 여름과 메아리 저자 (National Library of Korea.)
 - Apple Developer Academy @ POSTECH 2026.
 
 ## Key Awards
 
-- Sejong University UI Meta Life Style IDEA Design Contest
-  - 2022.11.11 (우수상)
+- 2022 | Sejong University UI Meta Life Style IDEA Design Contest (우수상)
+- 2026 | 교보문고 온라인 시/에세이 전체 5위
 
 ## Featured Work
 
