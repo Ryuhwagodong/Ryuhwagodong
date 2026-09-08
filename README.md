@@ -4,7 +4,7 @@ Artist working across art, design, and technology.
 
 ## About
 
-(Real Name : 유성룡)
+(Real Name : Sungryong Ryu)
 - Artist at [@RHGDA]. (Active Since 2018, in South Korea.)
 - 2024 | Pro Debut. (Debut Work : 고동마을)
 - 2026 | 여름과 메아리 저자 (National Library of Korea.)
