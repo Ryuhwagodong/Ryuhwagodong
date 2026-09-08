@@ -1,6 +1,6 @@
 # 💫 Hello. New. [The Power of Creativity.]
 
-Artist working across art, design, and technology.
+Artist working across Art, Design, and Technology.
 
 ## About
 
