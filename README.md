@@ -32,7 +32,7 @@ Artist working across Art, Design, and Technology.
 - [Official | Artist Website](https://www.hwagodong.com)
 - [Official | Brand Website](https://www.rhgda.com)
 - [Official | Instagram](https://www.instagram.com/ryuhwagodong/)
-- [Official | YouTube](https://www.youtube.com/@hwagodong)
+- [Official | YouTube](https://www.youtube.com/@ryuhwagodong)
 - [Official | LinkedIn](https://www.linkedin.com/in/ryuhwagodong/)
 
 © 2026 RHGDA. All Rights Reserved.
