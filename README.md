@@ -1,15 +1,15 @@
-# 💫 Hello. New. [The Power of Creativity.]
+# 📀 Hello. New. [The Power of Creativity.]
 
 Artist working across Art, Design, and Technology.
 
 ## About
 
 (Real Name : Sungryong Ryu / 2000)
-- Artist at [@RHGDA]. (Active Since 2018, in South Korea.)
+- Founder of [@RHGDA]. (Active Since 2018, in South Korea.)
 - 2024 | Pro Debut. (Debut Work : 고동마을)
-- 2026 | 여름과 메아리 저자 (National Library of Korea.)
-- 2027 | PACD
-- Apple Developer Academy @ POSTECH 2026.
+- 2026 | Apple Developer Academy @ POSTECH
+- 2026 | [여름과 메아리] 저자 (National Library of Korea.)
+- 2027 | Team PACD
 
 ## Key Awards
 
@@ -36,4 +36,4 @@ Artist working across Art, Design, and Technology.
 - [Official | YouTube](https://www.youtube.com/@ryuhwagodong)
 - [Official | LinkedIn](https://www.linkedin.com/in/ryuhwagodong/)
 
-© 2026 RHGDA. All Rights Reserved.
+© 2027 RHGDA. All Rights Reserved.
