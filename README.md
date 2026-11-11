@@ -4,7 +4,6 @@ Artist working across Art, Design, and Technology.
 
 ## About
 
-(Real Name : Sungryong Ryu / 2000)
 - Founder of [@RHGDA]. (Active Since 2018, in South Korea.)
 - 2024 | Pro Debut. (Debut Work : 고동마을)
 - 2026 | Apple Developer Academy @ POSTECH
