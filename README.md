@@ -1,4 +1,4 @@
-# 📀 Hello. New. [The Power of Creativity.]
+# 📀 Hello. New.
 
 Artist working across Art, Design, and Technology.
 
