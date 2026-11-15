@@ -4,7 +4,7 @@ Artist working across Art, Design, and Technology.
 
 ## About
 
-- Founder of @RHGDA. (Active Since 2018, in South Korea.)
+- Founder of @RHGDA.
 
 - 2018 | 『소변은 노랗다』 회화작.
 - 2022 | 팀 알록달록 작사.
