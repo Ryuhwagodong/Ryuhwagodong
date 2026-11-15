@@ -5,9 +5,10 @@ Artist working across Art, Design, and Technology.
 ## About
 
 - Founder of [@RHGDA]. (Active Since 2018, in South Korea.)
+- 2018 | 『소변은 노랗다』 회화작.
+  2022 | 팀 알록달록 작사.
 - 2024 | Pro Debut. (Debut Work : 고동마을)
-- 2026 | Apple Developer Academy @ POSTECH
-- 2026 | [여름과 메아리] 저자 (National Library of Korea.)
+- 2026 | 『여름과 메아리』 저자 (National Library of Korea.)
 - 2027 | Team PACD
 
 ## Key Awards
@@ -24,15 +25,16 @@ Artist working across Art, Design, and Technology.
 
 ## Key Experience
 
-- [Art Exhibition] 2024, Seoul Daon.
-- [Logo Design | Cotanus] 2025 Registered trademark.
+- 2024 | [Art Exhibition], Seoul Daon.
+- 2025 | [Logo Design | Cotanus] Registered trademark.
+- 2026 | Apple Developer Academy @ POSTECH
 
 ## Contact
 
-- [Official | Artist Website](https://www.hwagodong.com)
-- [Official | Brand Website](https://www.rhgda.com)
-- [Official | Instagram](https://www.instagram.com/ryuhwagodong/)
-- [Official | YouTube](https://www.youtube.com/@ryuhwagodong)
-- [Official | LinkedIn](https://www.linkedin.com/in/ryuhwagodong/)
+- [© RHGDA | Artist](https://www.hwagodong.com)
+- [© RHGDA | Brand](https://www.rhgda.com)
+- [© RHGDA | Instagram](https://www.instagram.com/ryuhwagodong/)
+- [© RHGDA | YouTube](https://www.youtube.com/@ryuhwagodong)
+- [© RHGDA | LinkedIn](https://www.linkedin.com/in/ryuhwagodong/)
 
 © 2027 RHGDA. All Rights Reserved.
